@@ -4,7 +4,7 @@ Locale::Country::Multilingual - Map ISO codes to localized country names
 
 # VERSION
 
-version 0.25
+version 0.26
 
 # SYNOPSIS
 
